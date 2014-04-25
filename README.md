@@ -1,7 +1,7 @@
 Vertigo - Vertcoin Lightweight Wallet
 =================
 
-Light way Simplified Payment Verification (SPV) Doge Coin desktop Wallet.
+Lightweight Simplified Payment Verification (SPV) Vertcoin desktop Wallet.
 
 About
 =====
